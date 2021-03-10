@@ -7,14 +7,14 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         int i = scan.nextInt();
         switch (i){
-            case 1:{break;}
-            case 2:{break;}
-            case 3:{break;}
-            case 4:{break;}
-            case 5:{break;}
-            case 6:{break;}
+            case 1:{Expercise_1.Expercise1();break;}
+            case 2:{Expercise_2.Expercise2();break;}
+            case 3:{Expercise_3.Expercise3();break;}
+            case 4:{Expercise_4.Expercise4();break;}
+            case 5:{Expercise_5.Expercise5();break;}
+            case 6:{Expercise_6.Expercise6();break;}
             case 7:{Seven.seven(); break;}
-            case 8:{break;}
+            case 8:{Expercise_8.Expercise8();break;}
             case 9:{Nine.nine(); break;}
             case 10:{Ten.ten(); break;}
             case 11:{Eleven.eleven(); break;}
